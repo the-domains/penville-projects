@@ -1,15 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: true
+keywords: []
+description: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
+datePublished: '2016-03-08T17:16:14.417Z'
+dateModified: '2016-03-08T17:07:19.821Z'
 title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
 author: []
-datePublished: '2016-03-08T16:46:35.911Z'
-dateModified: '2015-12-06T00:45:44.238Z'
 sourcePath: _posts/2016-03-08-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
