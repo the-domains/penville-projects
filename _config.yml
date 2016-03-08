@@ -1,0 +1,28 @@
+name: Penville Projects
+favicon: null
+layout_spectrum: 0.6216161281336099
+typography_spectrum: 0.7547678633127362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9163543286267668
+  lightness: 0.6980825844220817
+  saturation: 0.1679338503163308
+  rhythmicContrast: 0.6511434593703598
+purpose: []
