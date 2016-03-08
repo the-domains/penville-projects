@@ -1,7 +1,7 @@
 name: Penville Projects
 favicon: null
-layout_spectrum: 0.6216161281336099
-typography_spectrum: 0.7547678633127362
+layout_spectrum: 1
+typography_spectrum: 0
 title: Penville Wine
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#f0ffff'
+    - '#060709'
+    - '#006b57'
+    - '#66b29c'
+    - '#d76700'
   brandStrength: 0.9163543286267668
   lightness: 0.6980825844220817
-  saturation: 0.1679338503163308
-  rhythmicContrast: 0.6511434593703598
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
