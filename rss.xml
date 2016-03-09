@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Penville Wine]]></title>
         <description><![CDATA[Penville Wine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.penvillewine.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 19:44:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 17:50:24 GMT</lastBuildDate>
+        <atom:link href="http://www.penvillewine.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12688099_10153465324346325_7669350628150767676_n.jpg?oh=ada99a3ffb24135068c11ddcbd56f50f&oe=5757BB22">]]></description>
-            <link>undefined34c8b24b-911d-42c4-b3e7-e94a75be2908/index.html</link>
+            <link>http://www.penvillewine.com/9320a61f-deef-4a5b-a973-54f1e85054f1/index.html</link>
+            <guid isPermaLink="false">9320a61f-deef-4a5b-a973-54f1e85054f1</guid>
+            <pubDate>Wed, 09 Mar 2016 17:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12688099_10153465324346325_7669350628150767676_n.jpg?oh=ada99a3ffb24135068c11ddcbd56f50f&oe=5757BB22">]]></description>
+            <link>http://www.penvillewine.com/34c8b24b-911d-42c4-b3e7-e94a75be2908/index.html</link>
             <guid isPermaLink="false">34c8b24b-911d-42c4-b3e7-e94a75be2908</guid>
             <pubDate>Tue, 08 Mar 2016 19:44:34 GMT</pubDate>
         </item>
